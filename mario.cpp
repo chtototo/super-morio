@@ -178,7 +178,7 @@ public:
 
 int main()
 {
-    sf::RenderWindow window(sf::VideoMode(800, 600), "Super Mario Clone");
+    sf::RenderWindow window(sf::VideoMode(800, 600), "Super Morio");
 
     Player player;
     std::vector<sf::FloatRect> platforms;
